@@ -1,2 +1,2 @@
-@spirewinder (or spire_winder)\n
+spire-winder (or spire_winder)
 Pronouns: they/them
